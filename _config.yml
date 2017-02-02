@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Pranjal
+bio: A Man who sits in a room anf eats noodles
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -17,7 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+# your url: http://saiakbar.github.io
 
 permalink: /:title/
 
